@@ -161,3 +161,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://marvelous-moon-netlifycms-jekyll-bce05.netlify.app'
